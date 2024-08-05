@@ -22,93 +22,58 @@ SCSS has been used to increase code customizability.
 
 Installation
 ------------
-There are multiple ways to install AdminLTE.
 
 #### Download:
 
-Download from [Github releases](https://github.com/ColorlibHQ/AdminLTE/releases).
-
-#### Using The Command Line:
-
-__Via NPM__
-```bash
-npm install admin-lte@^3.0 --save
-```
-
-__Via Yarn__
-```bash
-yarn add admin-lte@^3.0
-```
-
-__Via Composer__
-```bash
-composer require "almasaeed2010/adminlte=~3.0"
-```
+Download from [Github releases](https://github.com/Iqbolshoh/template-admin-panel/).
 
 __Via Git__
 - Clone to your machine
 ```
-git clone https://github.com/ColorlibHQ/AdminLTE.git
+git clone https://github.com/Iqbolshoh/template-admin-panel.git
 ```
 
-Documentation
--------------
-Visit the [online documentation](https://adminlte.io/docs/3.0/) for the most
-updated guide. Information will be added on a weekly basis.
+## Connect with Me
 
-Browser Support
----------------
-- IE 10+
-- Firefox (latest)
-- Chrome (latest)
-- Safari (latest)
-- Opera (latest)
+I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the
+platforms below:
 
-Contribution
-------------
-Contribution are always **welcome and recommended**! Here is how:
-
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
-- Create a new branch
-- Make your changes
-- Create a pull request
-
-#### Compile dist files
-To compile the dist files you need nodejs/npm, clone/download the repo then:
-
-1. `npm install` (install npm deps)
-2. _Optional:_ `npm run dev` (developer mode, autocompile with browsersync support for live demo)
-3. `npm run production` (compile css/js files)
-
-#### Contribution Requirements:
-- When you contribute, you agree to give a non-exclusive license to AdminLTE.io to use that contribution in any context as we (AdminLTE.io) see appropriate.
-- If you use content provided by another party, it must be appropriately licensed using an [open source](http://opensource.org/licenses) license.
-- Contributions are only accepted through Github pull requests.
-- Finally, contributed code must work in all supported browsers (see above for browser support).
-
-License
--------
-AdminLTE is an open source project by [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](http://opensource.org/licenses/MIT). AdminLTE.io
-reserves the right to change the license of future releases.
-
-Legacy Releases
----------------
-- [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18)
-- [AdminLTE 1](https://github.com/ColorlibHQ/AdminLTE/releases/tag/1.3.1)
-
-Change log
-----------
-Visit the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) page to view the changelog
-
-Image Credits
--------------
-[Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-
-[Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-
-[Pickaface](http://pickaface.net/)
-
-[Unsplash](https://unsplash.com/)
-
-[Uifaces](http://uifaces.com/)
+<table>
+    <tr>
+        <td>
+            <a href="https://t.me/iqbolshoh_777">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
+                    height="48" width="48" alt="Telegram" />
+            </a>
+        </td>
+        <td>
+            <a href="https://instagram.com/iqbolshoh_777" target="blank"><img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                    alt="instagram" height="48" width="48" /></a>
+        </td>
+        <td>
+            <a href="https://wa.me/qr/22PVFQSMQQX4F1">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
+                    height="48" width="48" alt="WhatsApp" />
+            </a>
+        </td>
+        <td>
+            <a href="https://x.com/iqbolshoh_777">
+                <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48"
+                    width="48" alt="Twitter" />
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/iqbolshoh/">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
+                    height="48" width="48" alt="LinkedIn" />
+            </a>
+        </td>
+        <td>
+            <a href="mailto:iilhomjonov777@gmail.com">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
+                    height="48" width="48" alt="Email" />
+            </a>
+        </td>
+    </tr>
+</table>
