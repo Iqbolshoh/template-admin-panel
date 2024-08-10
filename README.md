@@ -15,11 +15,15 @@ Installation
 
 Download from [Github releases](https://github.com/Iqbolshoh/template-admin-panel/).
 
-__Via Git__
+__ Git__
 - Clone to your machine
 ```
 git clone https://github.com/Iqbolshoh/template-admin-panel.git
 ```
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or want to enhance the project, feel free to fork the repository and submit a pull request.
 
 ## Connect with Me
 
