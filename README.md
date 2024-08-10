@@ -3,10 +3,7 @@
 **AdminLTE** is a fully responsive administration template. Based on Bootstrap 4 framework.
 Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
-
-**AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
-SCSS has been used to increase code customizability.
+!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png)
 
 Installation
 ------------
@@ -15,7 +12,7 @@ Installation
 
 Download from [Github releases](https://github.com/Iqbolshoh/template-admin-panel/).
 
-__ Git__
+Github
 - Clone to your machine
 ```
 git clone https://github.com/Iqbolshoh/template-admin-panel.git
