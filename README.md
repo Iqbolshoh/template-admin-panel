@@ -18,6 +18,17 @@ Github
 git clone https://github.com/Iqbolshoh/template-admin-panel.git
 ```
 
+## Technologies Used
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</div>
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or want to enhance the project, feel free to fork the repository and submit a pull request.
